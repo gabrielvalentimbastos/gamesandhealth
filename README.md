@@ -31,7 +31,7 @@
 │   └── Gaming and Mental Health.csv  # Dataset original em formato CSV
 ├── projetoIA.ipynb                   # Notebook principal do projeto (Seções 5.1 a 5.7)
 └── README.md                         # Documentação completa do projeto
-
+```
 ---
 
 ## 🚀 Instruções para Execução no Google Colab
