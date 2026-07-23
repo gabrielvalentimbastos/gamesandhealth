@@ -1,4 +1,4 @@
-# Predição do Risco de Vício em Jogos
+# Previsão do Risco de Vício em Jogos
 
 ## 🎯 Título e Objetivo
 * **Título do Projeto:** Previsão do Risco de Vício em Jogos Eletrônicos
