@@ -87,7 +87,7 @@ Documentação do repositório e gravação da apresentação em vídeo.
 ---
 
 ## 🎥 Link do Vídeo de Apresentação
-Vídeo Explicativo: Clique para assistir à apresentação no YouTube
+Vídeo Explicativo: [![Assistir Apresentação](https://img.shields.io/badge/YouTube-Assistir%20Apresentação-red?style=for-the-badge&logo=youtube)](https://youtu.be/0kp7kpT2W3g)
 
 ---
 
